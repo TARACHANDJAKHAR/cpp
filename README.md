@@ -1,2 +1,2 @@
-# c-
+# cpp
 C++ programs by TARACHAND JAKHAR
